@@ -18,10 +18,7 @@ Cloudinary
 Heroku 
 Express
 
-## The problem
-
-
 
 ## View it live
 
-
+https://heartpix.netlify.app/
